@@ -5,10 +5,10 @@ FiveM Nebula Studios Vehicle Grappler
 
 ## Preview
 
-![Grappler Preview 1](https://via.placeholder.com/1280x720?text=Preview+Image+1)
-![Grappler Preview 2](https://via.placeholder.com/1280x720?text=Preview+Image+2)
-![Grappler Preview 3](https://via.placeholder.com/1280x720?text=Preview+Image+3)
-![Grappler Preview 4](https://via.placeholder.com/1280x720?text=Preview+Image+4)
+![Grappler Preview 1](https://raw.githubusercontent.com/five-dev-freelancer/Vehicle-Pursuit-Grappler/refs/heads/main/images/1.png)
+![Grappler Preview 2](https://raw.githubusercontent.com/five-dev-freelancer/Vehicle-Pursuit-Grappler/refs/heads/main/images/2.png)
+![Grappler Preview 3](https://raw.githubusercontent.com/five-dev-freelancer/Vehicle-Pursuit-Grappler/refs/heads/main/images/3.png)
+![Grappler Preview 4](https://raw.githubusercontent.com/five-dev-freelancer/Vehicle-Pursuit-Grappler/refs/heads/main/images/4.png)
 
 
 ## Features
