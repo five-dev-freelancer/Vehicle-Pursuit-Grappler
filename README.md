@@ -37,4 +37,4 @@ Perfect for servers aiming for:
 
 ## Installation
 
-1. Download or clone this repository into your server's `resources` folder:
+1. Move the folder under resource into your server resources.
