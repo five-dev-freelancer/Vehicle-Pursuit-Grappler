@@ -37,7 +37,7 @@ Perfect for servers aiming for:
 
 ## Installation
 
-1. Move the folder under resource into your server resources.
+1. Move the folder under resource into your server resources and ensure it in server.cfg.
 
 ## Disclaimer 
 Free for use in any FiveM server. However, repackaging, 'skidding', or attempting to decrypt/deobfuscate this code for redistribution is strictly forbidden. Please respect the work put into this project by keeping the original credits intact.
